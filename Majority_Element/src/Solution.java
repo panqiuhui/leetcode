@@ -24,4 +24,5 @@ public class Solution {
         int result = s.majorityElement(num);
         System.out.println(result);
     }
+
 }
