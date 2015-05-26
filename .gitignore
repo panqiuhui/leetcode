@@ -1,9 +1,6 @@
-.idea/*
-
+.idea/
 *.xml
-
 *.iml
-
 *.class
-
 out/
+.DS_Store
